@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1449671785 source:c:\users\lplanetarizagol\desktop\cinecolombia\main.cpp
+	<iostream>
+	<windows.h>
+	"Sillacin.cpp"
+	"Pasajero.cpp"
+
+1447960711 c:\users\lplanetarizagol\desktop\cinecolombia\sillacin.cpp
+	<string>
+
+1450138833 source:c:\users\lplanetarizagol\desktop\todo2\cinecolombia\main.cpp
+	<iostream>
+	<windows.h>
+	"Sillacin.cpp"
+
+1447960711 c:\users\lplanetarizagol\desktop\todo2\cinecolombia\sillacin.cpp
+	<string>
+
+1450139921 c:\users\lplanetarizagol\desktop\cinecolombia\pasajero.cpp
+	<iostream>
+
+1449679244 source:c:\users\lplanetarizagol\documents\programacioni\cinecolombia\main.cpp
+	<iostream>
+	<windows.h>
+	"Sillacin.cpp"
+	"Pasajero.cpp"
+
+1447960711 c:\users\lplanetarizagol\documents\programacioni\cinecolombia\sillacin.cpp
+	<string>
+
+1450139921 c:\users\lplanetarizagol\documents\programacioni\cinecolombia\pasajero.cpp
+	<iostream>
+
